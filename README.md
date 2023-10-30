@@ -1,7 +1,13 @@
 RL in time series
 ==============================
 
-Application of RL methods for time series forecasting
+Application of Reinforcement Learning methods for time series forecasting
+
+Links to Data
+------------
+Groningen data - https://www.nlog.nl/en/data (Boreholes, Wells) <br>
+Volve data - https://www.equinor.com/energy/volve-data-sharing <br>
+COSTA data - https://researchportal.hw.ac.uk/en/datasets/costa-model-hierarchical-carbonate-reservoir-benchmarking-case-st
 
 Project Organization
 ------------
